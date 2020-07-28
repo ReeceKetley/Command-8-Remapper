@@ -1,4 +1,4 @@
-# Command-8-Remapper
+# Command8 Remapper (ReCommand8)
 Use DigiDesign Command 8 (Not in standalone mode) with any midi compliant DAW
 
 Use every feature on the Command8 rather than just the mixer section in Stand-Alone mode.
