@@ -9,9 +9,6 @@ ReCommand8 restranslates the input from the command8 into MackieControl messages
 Whats working?
 All buttons including motorized faders 
 
-What needs to be done?
-VU Meters & LCD Screen (although i have found the bytes to set this and i have been able to set screen content i just haven't finished the methods)
-
 Why?
 I got a Command|8 at a good price. I figured others might want to use this software too.
 
