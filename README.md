@@ -1,9 +1,16 @@
 # Command-8-Remapper
 Use DigiDesign Command 8 (Not in standalone mode) with any midi compliant DAW
 
-The DigiDesign Command|8 is a old beast but still a perfectly respectable control surface the problem arives that it's pretty much locked to ProTools.
-I just can't use ProTools i find the UI super confusing is i wrote this. 
+Use every feature on the Command8 rather than just the mixer section in Stand-Alone mode.
 
-What does it do?
+How does it work? 
+ReCommand8 restranslates the input from the command8 into MackieControl messages (which works in pretty much every DAW i tried)
 
-Well, it simulates the Command|8 being used in ProTools giving you full funcationality, Yes the Command|8 has "stand alone" mode but you also lose a lot of buttons and functionality.
+Whats working?
+All buttons including motorized faders 
+
+What needs to be done?
+VU Meters & LCD Screen (although i have found the bytes to set this and i have been able to set screen content i just haven't finished the methods)
+
+Why?
+I got a Command|8 at a good price. I figured others might want to use this software too.
