@@ -14,3 +14,5 @@ VU Meters & LCD Screen (although i have found the bytes to set this and i have b
 
 Why?
 I got a Command|8 at a good price. I figured others might want to use this software too.
+
+You will need to compile this if you don't know how i suggest you wait untill i've finished the project and posted the binaries.
