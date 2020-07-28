@@ -1,0 +1,26 @@
+--------- SETS THE FADER POSTION -----------
+[Channel1]DataEntryMSB Value: 60 - Fader 7
+[Channel1]ModulationWheel Value: 60 - Fader 2
+[Channel1]Volume Value: 60 - Fader 8
+[Channel1]Pan Value: 60 - Fader 3
+[Channel1]Expression Value: 60 - Fader 4
+
+
+still some faders to find but i think they are possibly done with note on events.
+
+
+
+-------------  VU Meters -------------------
+Looks like VU meters are set with SysEX 
+messages. Unsure on the byte seq but 
+quite possibly need to be flipped
+
+Decimal Values:
+9 144 0  127
+09 90 00 7F - Seems to set Channel 1 VU to max
+^---|  | ^---- This hex value equals 127 (the max in midi) perhaps its the level?
+    |  ^------ Seems to be the channel number.
+    ^--------- Command to set VU?
+
+
+

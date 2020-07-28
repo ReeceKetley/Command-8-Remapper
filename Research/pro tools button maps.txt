@@ -1,0 +1,106 @@
+DigiDesign - Command|8
+ProTools Mapping 
+Reece Ketley
+
+////////////////////////////////////////////////////////////
+// Button presses are made up of note and veloicty values //
+// A note and velocity value combined is the button id    //
+// These controls are normally dissabled                  //
+////////////////////////////////////////////////////////////
+FSharpNeg1 : 78 = RTZ
+GNeg1 : 78 = REW
+GSharpNeg1 : 78 = FWD
+ANeg1 : 78 = STOP
+ASharpNeg1 : 78 = PLAY
+BNeg1 : 78 = REC
+CNeg1 : 78 = PLUGIN
+CSharpNeg1 : 78 = MIX
+DNeg1 : 78 = EDIT
+DSharpNeg1 : 78 = LOOP_PLAY
+ENeg1 : 78 = LOOP_REC
+FNeg1 : 78 = QUICK_PUNCH
+C0 : 78 = MEM_LOC
+CSharpNeg1 : 77 = MASTER_FADERS
+GSharpNeg1 : 77 = DOWN
+CSharp0 : 77 = FOCUS
+CNeg1 : 77 = FLIP
+FNeg1 : 77 = LEFT
+FSharpNeg1 : 77 = RIGHT
+C0 : 77 = FADER_MUTE
+GNeg1 : 77 = UP
+DNeg1 : 77 = BANK
+DSharpNeg1 : 77 = NUDGE
+ENeg1 : 77 = ZOOM
+CNeg1 : 76 = ENTER
+CSharpNeg1 : 76 = UNDO
+DSharpNeg1 : 76 = CHANNEL_RECORD
+ENeg1 : 76 = PAN/MASTER
+ASharpNeg1 : 74 = CTRL_CLUTCH
+BNeg1 : 74 = WIN KEY_CTL
+GSharpNeg1 : 74 = SHIFT_ADD
+ANeg1 : 74 = ALT
+C0 : 74 = DEFAULT
+CSharp0 : 74 = MON
+GNeg1 : 74 = E
+DNeg1 : 74 = INSERT
+FSharpNeg1 : 74 = D
+CSharpNeg1 : 74 = SEND
+FNeg1 : 74 = C
+CNeg1 : 74 = PAN
+ENeg1 : 74 = B
+DSharpNeg1 : 74 = CONSOLE_VIEW
+GSharpNeg1 : 75 = DISPLAY_MODE
+
+=========================================================
+= Mixer Section - DIFFERANT VALUES FROM STANDALONE MODE =
+=========================================================
+
+////////////////////////////////////////////////////////
+// Mixer Encoders these use two values 65 for up      //
+// 63 for down there is no actual value assigned      //
+////////////////////////////////////////////////////////
+SustainPedal = ENC_1
+65 = ENC_2
+66 = ENC_3
+67 = ENC_4
+68 = ENC_5
+69 = ENC_6
+70 = ENC_7
+71 = ENC_8
+/////////////////////////////////////////////////////////
+DSharpNeg1 : 64 = MUTE_1
+DSharpNeg1 : 65 = MUTE_2
+DSharpNeg1 : 66 = MUTE_3
+DSharpNeg1 : 67 = MUTE_4
+DSharpNeg1 : 68 = MUTE_5
+DSharpNeg1 : 69 = MUTE_6
+DSharpNeg1 : 70 = MUTE_7
+DSharpNeg1 : 71 = MUTE_8
+DNeg1 : 64 = SOLO_1
+DNeg1 : 65 = SOLO_2
+DNeg1 : 66 = SOLO_3
+DNeg1 : 67 = SOLO_4
+DNeg1 : 68 = SOLO_5
+DNeg1 : 69 = SOLO_6
+DNeg1 : 70 = SOLO_7
+DNeg1 : 71 = SOLO_8
+CNeg1 : 64 = SELECT_1
+CNeg1 : 65 = SELECT_2
+CNeg1 : 66 = SELECT_3
+CNeg1 : 67 = SELECT_4
+CNeg1 : 68 = SELECT_5
+CNeg1 : 69 = SELECT_6
+CNeg1 : 70 = SELECT_7
+CNeg1 : 71 = SELECT_8
+CNeg1 : 75 = EQ
+CSharpNeg1 : 75 = DYNAMICS
+DNeg1 : 75 = MIX_INSERT
+DSharpNeg1 : 75 = PAN_SEND_PRE
+ENeg1 : 75 = PAGE_L
+FNeg1 : 75 = PAGE_R
+FSharpNeg1 : 75 = MASTER_BYPASS
+GNeg1 : 75 = ESC
+
+
+
+
