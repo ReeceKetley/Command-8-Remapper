@@ -1,4 +1,4 @@
-# Command8 Remapper (ReCommand8)
+# Command8 Remapper (ReCommand8) - Use DigiDesign on any Ableton (Windows)
 
 A reverse engineering effort to repurpose otherwise obsolete audio equipment and prevent ewaste. 
 
@@ -11,3 +11,8 @@ ReCommand8 restranslates the input from the command8 into MackieControl messages
 
 Whats working?
 All buttons including motorized faders 
+
+Requirements: 
+teVirtualMidi Driver
+Command 8 Driver
+
