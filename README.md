@@ -21,8 +21,12 @@ https://www.tobias-erichsen.de/wp-content/uploads/2020/01/teVirtualMIDISDKSetup_
 Install:
 
 Install teVritualMidiSDK.
+
 Download windows binaries listed on the right of this page
+
 Extract the zip to a folder and run the exe inside. (youll need to run this everytime you want to use the desk)
+
 In your daw setup ReCommand8 as a MackieControl desk
+
 Enjoy.
 
